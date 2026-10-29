@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /404
+Disallow: /_not-found
+
+Sitemap: https://ramo-industrial.ru/sitemap.xml

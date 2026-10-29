@@ -1,0 +1,5 @@
+:HL["/_next/static/css/78af04bc478bdb7a.css","style"]
+:HL["/_next/static/css/92945251df5383aa.css","style"]
+:HL["/_next/static/css/37b844c2304cd928.css","style"]
+:HL["/_next/static/css/9568b9f6896ee7da.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"services","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"special","siblings":["electromagnetic-equipment","special-motors"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"WM0IjrJahruv2mlxcnYFf"}

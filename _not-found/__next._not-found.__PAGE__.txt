@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[6119,["116","static/chunks/116-7f688607519a15fe.js","212","static/chunks/212-aa87f4f5e9789abb.js","1","static/chunks/1-f4a8fd61657ca270.js","974","static/chunks/app/page-adba22ff4a4c916c.js"],"default"]
+3:I[8500,["116","static/chunks/116-7f688607519a15fe.js","1","static/chunks/1-f4a8fd61657ca270.js","345","static/chunks/app/not-found-51cdbefa4490dc2d.js"],""]
+4:I[7694,["116","static/chunks/116-7f688607519a15fe.js","212","static/chunks/212-aa87f4f5e9789abb.js","1","static/chunks/1-f4a8fd61657ca270.js","974","static/chunks/app/page-adba22ff4a4c916c.js"],"default"]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[484,[],"ViewportBoundary"]
+b:I[484,[],"MetadataBoundary"]
+c:I[6869,[],"IconMark"]
+e:I[7121,[],""]
+f:I[4581,[],""]
+:HL["/_next/static/css/78af04bc478bdb7a.css","style"]
+:HL["/_next/static/css/92945251df5383aa.css","style"]
+9:X
+11:X
+11:C
+0:{"buildId":"WM0IjrJahruv2mlxcnYFf","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"not-found-page container","children":[["$","p",null,{"className":"eyebrow","children":"РАМО / 404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","div",null,{"children":[["$","$L3",null,{"className":"button","href":"/","children":"На главную"}],["$","$L3",null,{"href":"/services","children":"Услуги"}],["$","$L3",null,{"href":"/#contacts","children":"Контакты"}]]}]]}],["$","$L4",null,{}]],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Страница не найдена | РАМО"}],["$","meta","1",{"name":"description","content":"Ремонт электродвигателей, генераторов, насосов, вентиляторов и промышленного электрооборудования. Производственная база ООО «РАМО», Набережные Челны."}],["$","meta","2",{"name":"robots","content":"noindex, follow"}],["$","meta","3",{"property":"og:title","content":"Страница не найдена | РАМО"}],["$","meta","4",{"property":"og:description","content":"Ремонт электродвигателей, генераторов, насосов, вентиляторов и промышленного электрооборудования. Производственная база ООО «РАМО», Набережные Челны."}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Страница не найдена | РАМО"}],["$","meta","7",{"name":"twitter:description","content":"Ремонт электродвигателей, генераторов, насосов, вентиляторов и промышленного электрооборудования. Производственная база ООО «РАМО», Набережные Челны."}],["$","link","8",{"rel":"icon","href":"/favicon.svg"}],["$","$Lc","9",{}]]}]}]}],null]}],"isPartial":"$@d","staleTime":"$9","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]]}],"isPartial":"$@10","staleTime":"$9","varyParams":"$11"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/78af04bc478bdb7a.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/92945251df5383aa.css","precedence":"next"}]],["$","html",null,{"lang":"ru","data-scroll-behavior":"smooth","children":["$","body",null,{"className":"__variable_471299","children":[["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}],"notFound":[[["$","$L2",null,{}],["$","main",null,{"className":"not-found-page container","children":[["$","p",null,{"className":"eyebrow","children":"РАМО / 404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","div",null,{"children":[["$","$L3",null,{"className":"button","href":"/","children":"На главную"}],["$","$L3",null,{"href":"/services","children":"Услуги"}],["$","$L3",null,{"href":"/#contacts","children":"Контакты"}]]}]]}],["$","$L4",null,{}]],[]]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ООО «РАМО»\",\"legalName\":\"ООО «РАМО»\",\"@id\":\"https://ramo-industrial.ru/#organization\",\"url\":\"https://ramo-industrial.ru/\",\"logo\":\"https://ramo-industrial.ru/images/ramo-header-emblem.png\",\"taxID\":\"1650053964\",\"identifier\":{\"@type\":\"PropertyValue\",\"propertyID\":\"ОГРН\",\"value\":\"1031616021580\"},\"email\":\"ramoob@yandex.ru\",\"telephone\":[\"+78552778310\",\"+78552778735\",\"+79872392500\"],\"address\":{\"@type\":\"PostalAddress\",\"postalCode\":\"423800\",\"addressCountry\":\"RU\",\"addressRegion\":\"Республика Татарстан\",\"addressLocality\":\"Набережные Челны\",\"streetAddress\":\"Фабричный проезд, д. 21, помещ. 6А\"}}"}}]]}]}]]}],"isPartial":"$@12","staleTime":"$9","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+7:null
+9:300
+14:true
+9:C
+13:0
+d:"$undefined"
+10:"$undefined"
+12:"$undefined"
+8:"$undefined"
